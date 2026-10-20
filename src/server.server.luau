@@ -1,0 +1,1 @@
+-- Server skripta (prazna, spremna za igru)

@@ -1,0 +1,21 @@
+{
+  "name": "Slime Simulator",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "ServerScript": {
+        "$path": "src/server.server.luau"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "LocalScript": {
+          "$path": "src/client.client.luau"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+-- Klijentska skripta (prazna, spremna za igru)
