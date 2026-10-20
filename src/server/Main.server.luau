@@ -1,1 +1,3 @@
--- Server skripta (prazna, spremna za igru)
+local SlimeService = require(script.SlimeService)
+
+SlimeService:Init()
