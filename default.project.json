@@ -2,6 +2,12 @@
   "name": "Slime Simulator",
   "tree": {
     "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Shared": {
+        "$path": "src/shared"
+      }
+    },
     "ServerScriptService": {
       "$className": "ServerScriptService",
       "ServerScript": {

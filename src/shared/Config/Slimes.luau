@@ -1,0 +1,2 @@
+local Slimes = {}
+return Slimes
