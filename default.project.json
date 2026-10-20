@@ -10,17 +10,15 @@
     },
     "ServerScriptService": {
       "$className": "ServerScriptService",
-      "ServerScript": {
-        "$path": "src/server.server.luau"
-      }
+      "$path": "src/server",
+      "$ignoreUnknownInstances": true
     },
     "StarterPlayer": {
       "$className": "StarterPlayer",
       "StarterPlayerScripts": {
         "$className": "StarterPlayerScripts",
-        "LocalScript": {
-          "$path": "src/client.client.luau"
-        }
+        "$path": "src/client",
+        "$ignoreUnknownInstances": true
       }
     }
   }
